@@ -56,5 +56,8 @@ var calendarInstance = new calendarJs("my-calendar", {
     titleErrorMessage:"Lütfen başlık kısımını boş bırakmayınız.",
     toSmallerThanFromErrorMessage: "Bitiş tarihini başlangıç tarihinden daya büyük bir tarih seçiniz.",
     listAllEventsTooltipText: "Bütün Hatırlatmaları Görüntüle",
-    listWeekEventsTooltipText: "Bu Hafta İçindeki\nHatırlatmaları Görüntüle"
+    listWeekEventsTooltipText: "Bu Hafta İçindeki\nHatırlatmaları Görüntüle",
+    noEventsAvailableText: "Hatırlatma bulunmamaktadır.",
+    viewWeekEventsText: "Hafta İçindeki Hatırlatmaları Görüntüle",
+    expandDayTooltipText: "Gün İçindeki Hatırlatmaları Görüntüle"
 });
