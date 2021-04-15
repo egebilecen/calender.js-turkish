@@ -51,8 +51,8 @@ var calendarInstance = new calendarJs("my-calendar", {
     forText: "Aranacak kelime:",
     confirmEventRemoveTitle: "Hatırlatmayı silmek istediğinizden emin misiniz?",
     confirmEventRemoveMessage: "Silme işlemi geri alınamaz. Devam etmek istiyor musunuz?",
-    fromText: "Tarih",
-    toText: " ",
+    fromText: "Başlangıç",
+    toText: "Bitiş Tarihi",
     titleErrorMessage:"Lütfen başlık kısımını boş bırakmayınız.",
     toSmallerThanFromErrorMessage: "Bitiş tarihini başlangıç tarihinden daya büyük bir tarih seçiniz."
 });
