@@ -59,5 +59,9 @@ var calendarInstance = new calendarJs("my-calendar", {
     listWeekEventsTooltipText: "Bu Hafta İçindeki\nHatırlatmaları Görüntüle",
     noEventsAvailableText: "Hatırlatma bulunmamaktadır.",
     viewWeekEventsText: "Hafta İçindeki Hatırlatmaları Görüntüle",
-    expandDayTooltipText: "Gün İçindeki Hatırlatmaları Görüntüle"
+    expandDayTooltipText: "Gün İçindeki Hatırlatmaları Görüntüle",
+    refreshTooltipText: "Yenile",
+    searchTooltipText: "Arama",
+    todayTooltipText: "Bugün",
+    searchEventsTitle: "Arama"
 });
